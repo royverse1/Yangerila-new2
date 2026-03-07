@@ -1,0 +1,24 @@
+/* src/index.css - FULL UNABRIDGED CODE */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  background-color: #000;
+  color: #fff;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  line-height: 1.5;
+}
+
+body {
+  width: 100%;
+  overflow-x: hidden;
+  background: #000;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  width: 100%;
+}
